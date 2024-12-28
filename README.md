@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saumyasingh98982@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18VRUxw9zpNWDta_11kEcwGLzBJBiDTfC/view?usp=sharing](https://drive.google.com/file/d/18VRUxw9zpNWDta_11kEcwGLzBJBiDTfC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zzzU-c37ptE9RRmqa_9p-yZkSar1qtKM/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a Passionate Developer...**
 
