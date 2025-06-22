@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumyasingh003&theme=radical&no-bg=true" alt="saumyasingh003 trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saumyasingh003&theme=radical&no-bg=true" alt="trophies" />
+  </a>
 </p>
 
 ---
@@ -16,7 +18,7 @@
 - 🌱 Currently learning: **ReactJS, NextJS, NodeJS, ExpressJS, MongoDB**
 - 💬 Ask me about: **ReactJS, NextJS, NodeJS, ExpressJS and MongoDB**
 - 📫 Reach me at: **saumyasingh98982@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1zzzU-c37ptE9RRmqa_9p-yZkSar1qtKM/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1vAACWPTzpEPOGeZ_b6RErUYvWWWh0EH6/view)
 - ⚡ Fun fact: **I believe I’m a Passionate Developer 💻❤️**
 
 ---
@@ -76,5 +78,3 @@
 > ⚡ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ---
-
-
