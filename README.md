@@ -53,30 +53,6 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🧠 CareerMind
-AI-powered career coaching platform with salary insights, AI mock interviews, ATS-friendly resume builder, PDF export, and AI cover letter generation.
-
-🔗 https://career-mind.vercel.app/
-
----
-
-## 📋 Zora
-Jira-style project management platform with multi-organization support, sprint planning, Kanban boards, and issue tracking.
-
-🔗 https://zora-two.vercel.app/
-
----
-
-## 🤖 AutoMentor
-AI-powered meeting assistant with video meetings, AI agents, summaries, real-time transcription, and action items.
-
-🔗 https://automentor-three.vercel.app/sign-in
-
----
-
 # 💻 Technical Skills
 
 ## Languages
