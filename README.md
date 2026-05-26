@@ -20,19 +20,19 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-## About Me
+# 💫 About Me
 
-- Final Year **B.Tech CSE Student** at **Amity University, Patna**
-- Full Stack Developer focused on building scalable and production-ready web applications
-- Interested in Backend Development, System Design, and AI-powered platforms
-- Currently learning FastAPI, Cloud Technologies, and Advanced Backend Architecture
-- Passionate about creating clean UI and efficient backend systems
+- 🎓 Final Year **B.Tech CSE Student** at **Amity University, Patna**
+- 💻 Full Stack Developer focused on scalable and production-ready applications
+- ⚡ Interested in Backend Development, System Design & AI-powered platforms
+- 🚀 Currently learning **FastAPI, Cloud Technologies & Advanced Backend Architecture**
+- 🎨 Passionate about building clean UI and efficient backend systems
 
 📫 **Email:** `saumyasingh98982@gmail.com`
 
 ---
 
-## Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saumyasingh003/" target="_blank">
@@ -54,33 +54,56 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-## Technical Skills
+# 🚀 Featured Projects
 
-### Languages
+## 🧠 CareerMind
+AI-powered career coaching platform with salary insights, AI mock interviews, ATS-friendly resume builder, PDF export, and AI cover letter generation.
+
+🔗 https://career-mind.vercel.app/
+
+---
+
+## 📋 Zora
+Jira-style project management platform with multi-organization support, sprint planning, Kanban boards, and issue tracking.
+
+🔗 https://zora-two.vercel.app/
+
+---
+
+## 🤖 AutoMentor
+AI-powered meeting assistant with video meetings, AI agents, summaries, real-time transcription, and action items.
+
+🔗 https://automentor-three.vercel.app/sign-in
+
+---
+
+# 💻 Technical Skills
+
+## Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
 </p>
 
-### Frontend Development
+## Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+## Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Databases
+## Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### Tools & Technologies
+## Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
@@ -88,55 +111,67 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-## GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=saumyasingh003&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=saumyasingh003&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF"
   />
 
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh003&layout=compact&theme=tokyonight&hide_border=true" 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh003&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=FFFFFF"
   />
 </p>
 
 ---
 
-## GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saumyasingh003&theme=tokyonight&hide_border=true" 
+    width="70%"
+    src="https://streak-stats.demolab.com?user=saumyasingh003&theme=dark&hide_border=true&background=0D1117&ring=00C896&fire=00C896&currStreakLabel=00C896"
   />
 </p>
 
 ---
 
-## Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saumyasingh003&theme=tokyo-night&hide_border=true" 
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saumyasingh003&theme=github-compact&hide_border=true&bg_color=0D1117&color=00C896&line=00C896&point=FFFFFF"
   />
 </p>
 
 ---
 
-## GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=saumyasingh003&theme=algolia&no-bg=true&no-frame=true&margin-w=10" 
+    src="https://github-profile-trophy.vercel.app/?username=saumyasingh003&theme=algolia&no-bg=true&no-frame=true&margin-w=10&row=1"
   />
 </p>
 
 ---
 
-## Career Objective
+# 📚 Currently Learning
 
-> Aspiring Software Engineer focused on developing scalable full-stack applications and continuously improving backend development and problem-solving skills.
+- FastAPI
+- Cloud Computing
+- Docker & DevOps
+- Advanced Backend Architecture
+- Scalable System Design
+
+---
+
+# 🎯 Career Objective
+
+> Aspiring Software Engineer focused on building scalable full-stack applications, improving backend architecture skills, and solving real-world problems through technology.
 
 ---
 
