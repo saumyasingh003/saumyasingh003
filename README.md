@@ -1,4 +1,4 @@
-<h1 align="center">Saumya Singh</h1>
+<h1 align="center">Hi, I'm Saumya Singh</h1>
 
 <h3 align="center">
 Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
@@ -14,18 +14,18 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🎓 Final Year **B.Tech CSE Student** at **Amity University, Patna**
-- 💻 Full Stack Developer focused on building **scalable and production-ready web applications**
-- ⚙️ Interested in **Backend Development, System Design & AI-powered platforms**
-- 🌱 Currently learning **FastAPI, Cloud Technologies & Advanced Backend Architecture**
-- 🚀 Passionate about creating applications with **clean UI and efficient backend systems**
-- 📫 Email: **saumyasingh98982@gmail.com**
+- Final Year **B.Tech CSE Student** at **Amity University, Patna**
+- Full Stack Developer focused on building **scalable and production-ready web applications**
+- Interested in **Backend Development, System Design & AI-powered platforms**
+- Currently learning **FastAPI, Cloud Technologies & Advanced Backend Architecture**
+- Passionate about creating applications with **clean UI and efficient backend systems**
+- Email: **saumyasingh98982@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -49,7 +49,7 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ## Languages
 
@@ -91,42 +91,7 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-# 🚀 Projects
-
-## CareerMind
-AI-powered career coaching platform featuring:
-- ATS-Friendly Resume Builder
-- AI Mock Interviews
-- Salary Insights
-- AI Cover Letter Generation
-
-🔗 https://career-mind.vercel.app/
-
----
-
-## Zora
-Project management platform with:
-- Kanban Boards
-- Sprint Planning
-- Multi-Organization Support
-- Role-Based Access Control
-
-🔗 https://zora-two.vercel.app/
-
----
-
-## AutoMentor
-AI meeting assistant with:
-- Real-time Transcription
-- AI Summaries
-- Action Item Tracking
-- Meeting Management Features
-
-🔗 https://automentor-three.vercel.app/sign-in
-
----
-
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -138,7 +103,7 @@ AI meeting assistant with:
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyasingh003&theme=tokyonight&hide_border=true"/>
@@ -146,7 +111,7 @@ AI meeting assistant with:
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyasingh003&theme=tokyo-night&hide_border=true"/>
@@ -154,7 +119,7 @@ AI meeting assistant with:
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=saumyasingh003&theme=algolia&no-bg=true&no-frame=true&margin-w=8"/>
@@ -162,7 +127,7 @@ AI meeting assistant with:
 
 ---
 
-# 📌 Career Objective
+# Career Objective
 
 > Aspiring Software Engineer focused on developing scalable full-stack applications and continuously improving problem-solving and backend development skills.
 
