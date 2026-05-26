@@ -87,22 +87,6 @@ Full Stack Developer • MERN Stack • Backend & Scalable Systems Enthusiast
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=saumyasingh003&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF"
-  />
-
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh003&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=FFFFFF"
-  />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
